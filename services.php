@@ -124,8 +124,6 @@
 <!-- services section ends -->
 
 
-
-
 <!-- footer starts -->
 
 <section class = "footer">

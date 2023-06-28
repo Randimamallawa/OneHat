@@ -149,13 +149,6 @@
      <div class="credit">© <span>OneHat</span>|All rights reserved</div>   
 </section>
 
-
-
-
-
-
-
-
 <!-- swiper js -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
